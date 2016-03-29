@@ -34,7 +34,8 @@ var options = {
     /loader-home/,
     /ball-pulse/,
     /visible/,
-    /top/
+    /top/,
+    /bg/
   ],
 
   /**
