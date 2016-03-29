@@ -1,0 +1,9 @@
+{
+  "generator-blst": {
+    "taskModule": "grunt",
+    "lintModule": "eslint",
+    "description": "The monthly design newsletter of Blaaast",
+    "author": "Emmanuel Roy",
+    "appKind": "static-web"
+  }
+}

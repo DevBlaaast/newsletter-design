@@ -1,0 +1,17 @@
+{
+  "seo": {
+    "title": "La Newsletter Design Mensuelle",
+    "description": "Votre nouvelle anti-sèche pour garder un oeil sur les tendances.",
+    "type": "website",
+    "image": {
+      "url": "/build/img/og_image.jpg"
+    },
+    "locale": "fr",
+    "url": "http://newsletter-design.blaaast.co",
+
+    "twitter_creator": "@emmnlr"
+  },
+  "analytics": {
+    "id": "ui-XXX-XXX"
+  }
+}

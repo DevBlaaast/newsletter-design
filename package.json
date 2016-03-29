@@ -1,0 +1,16 @@
+{
+  "name": "",
+  "version": "0.1.0",
+  "description": "",
+  "main": "gulpfile.js",
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "blaaast-build-pipeline": "DevBlaaast/blaaast-build-pipeline"
+  },
+  "scripts": {
+    "start": "gulp",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
