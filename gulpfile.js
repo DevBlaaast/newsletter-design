@@ -32,7 +32,9 @@ var options = {
   uncssOpts: [
     /hidden/,
     /loader-home/,
-    /ball-pulse/
+    /ball-pulse/,
+    /visible/,
+    /top/
   ],
 
   /**
